@@ -40,18 +40,17 @@
 
 ### 5. Задания по модулю "SQL":
 
-5.1 Практика по теме "Работа с базами данных"
+[5.1 Практика по теме "Работа с базами данных"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m2-%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D0%B1%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-5.2 Задание по теме "Основы SQL2
+[5.2 Задание по теме "Основы SQL](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m3-%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_SQL)
 
-5.3 Задание по теме "Углубление в SQL"
+[5.3 Задание по теме "Углубление в SQL"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m4-%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%A3%D0%B3%D0%BB%D1%83%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_SQL)
 
-5.4 Задание по теме "Работа с PostgreSQL ч1"
+[5.4 Задание по теме "Работа с PostgreSQL ч1"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m5-%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_PostgreSQL__%D1%871_)
 
-5.5 Задание по теме "Работа с PostgreSQL ч2"
+[5.5 Задание по теме "Работа с PostgreSQL ч2"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m6-%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_PostgreSQL_%D1%87_2_)
 
-5.6 Итоговая работа по модулю "SQL"
-
+[5.6 Итоговая работа по модулю "SQL"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m7_%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20SQL)
 
 ### 6. Задания по модулю "Python":
 
