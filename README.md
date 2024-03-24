@@ -54,36 +54,35 @@
 
 ### 6. Задания по модулю "Python":
 
-6.1 Задание к лекции Основы Python
 
-6.2 Задание к лекции Введение в типы данных и циклы. Часть 1
+[6.1 Задание к лекции Основы Python](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.1%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python.ipynb)
 
-6.3 Задание к лекции Введение в типы данных и циклы. Часть 2
+[6.2 Задание к лекции Введение в типы данных и циклы. Часть 1](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.2%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%20%D1%86%D0%B8%D0%BA%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.ipynb)
 
-6.4 Задание к лекции Функции
+[6.3 Задание к лекции Введение в типы данных и циклы. Часть 2](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.3%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%20%D1%86%D0%B8%D0%BA%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.ipynb)
 
-6.5 Задание к лекции Работа с файловой системой и модули
+[6.4 Задание к лекции Функции](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.4%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.ipynb)
 
-6.6 Задание к лекции Исключения и обработка ошибок
+[6.5 Задание к лекции Работа с файловой системой и модули](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8.ipynb)
 
-6.7 Задание к лекции Понятие класса
+[6.6 Задание к лекции Исключения и обработка ошибок](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.6%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA.ipynb)
 
-6.8 Задание Библиотека pandas
+[6.7 Задание к лекции Понятие класса](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.7%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0.ipynb)
 
-6.9 Задание Функции и работа с данными
+[6.8 Задание Библиотека pandas](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.8%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20pandas.ipynb)
 
-6.10 Задание к лекции Продвинутый pandas
+[6.9 Задание Функции и работа с данными](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.9%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.ipynb)
 
-6.11 Задание к лекции Основы веб-скрапинга
+[6.10 Задание к лекции Продвинутый pandas](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.10%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20pandas.ipynb)
 
+[6.11 Задание к лекции Основы веб-скрапинга](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.11%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%BD%D0%B3%D0%B0.ipynb)
 
 ### 7. Задания по модулю "Документирование в IT-проектах":
 
-7.1 Итоговая работа по модулю "Документирование в IT-проектах"
+[7.1 Итоговая работа по модулю "Документирование в IT-проектах"](https://github.com/FreedNumf/Portfolio/tree/main/07%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20IT-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D1%85)
 
 ### 8. Задания по модулю "Интеграция систем и документирование API":
 
-8.1 Задание по теме "Swagger"
+[8.1 Задание по теме "Swagger"](https://github.com/FreedNumf/Portfolio/blob/main/08%20%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API/8.1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BC%D0%B5%20%C2%ABSwagger%C2%BB.md)
 
-8.2 Задание к занятию "REST API"
-
+[8.2 Задание к занятию "REST API"](https://github.com/FreedNumf/Portfolio/blob/main/08%20%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API/8.2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8E%20%C2%ABREST%20API%C2%BB.md)
