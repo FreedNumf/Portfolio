@@ -14,7 +14,9 @@
 
 <details>
  <summary> 2022 год </summary><br>
-[•	Цифровая трансформация. Быстрый старт](https://stepik.org/cert/1366718)
+ 
+[Цифровая трансформация. Быстрый старт](https://stepik.org/cert/1366718)
+
 </details>
 
 ## Проекты:
