@@ -1,4 +1,4 @@
-# Портфолио системного аналитика
+# Портфолио
 
 ## [Резюме](https://github.com/FreedNumf/Portfolio/blob/main/Resume_MorozovAK.pdf)
 
