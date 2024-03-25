@@ -1,4 +1,4 @@
-<p style="text-align: center;">Портфолио</p>
+# Портфолио
 
 ## [Резюме](https://github.com/FreedNumf/Portfolio/blob/main/Resume_MorozovAK.pdf)
 
