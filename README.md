@@ -5,12 +5,16 @@
 ## Сертификаты:
 <details>
  <summary> 2024 год </summary><br>
+ 
 [Документирование в IT-проектах](https://netology.ru/sharing/8052fffaffff263261f6ce6234b9edea?utm_source=social&utm_campaign=achievements)
+
 [Библиотеки Python для анализа данных](https://netology.ru/sharing/73f22f887e21409cb8e5e8d235eb735e?utm_source=social&utm_campaign=achievements)
+
 </details>
 
 <details>
  <summary> 2023 год </summary><br>
+ 
 [Основы Python](https://netology.ru/sharing/64a50bcfe24f9758f9c5492584f33367?utm_source=social&utm_campaign=achievements)
  
 [SQL-разработчик](https://netology.ru/sharing/c590e12d1783e47140e0c90694b6cf57?utm_source=social&utm_campaign=achievements)
@@ -48,6 +52,7 @@
 
 <details>
  <summary> 1. Задания по модулю "Анализ требований":</summary><br>
+ 
 [1.1 Методы сбора требований](https://github.com/FreedNumf/Portfolio/blob/main/01%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/01%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%81%D0%B1%D0%BE%D1%80%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/01%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%81%D0%B1%D0%BE%D1%80%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.md)
 
 [1.2 Методы формализации требований - по классификации](https://github.com/FreedNumf/Portfolio/blob/main/01%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/02%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20-%20%D0%BF%D0%BE%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/02%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.md)
