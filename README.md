@@ -5,6 +5,8 @@
 ## Сертификаты:
 <details>
  <summary> 2024 год </summary><br>
+
+[Интеграция систем и документирование API](https://netology.ru/sharing/fb5ccdb8855ce41b0be624f3a63f27e6?utm_source=social&utm_campaign=certificate_lms )
  
 [Документирование в IT-проектах](https://netology.ru/sharing/8052fffaffff263261f6ce6234b9edea?utm_source=social&utm_campaign=achievements)
 
