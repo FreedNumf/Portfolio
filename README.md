@@ -1,11 +1,60 @@
 # Портфолио
 
-## [Моё резюме](https://github.com/FreedNumf/Portfolio/blob/main/Resume_MorozovAK.pdf)
+## [Резюме](https://github.com/FreedNumf/Portfolio/blob/main/Resume_MorozovAK.pdf)
 
-## Мои проекты:
+## Сертификаты:
+<details>
+ <summary> 2024 год </summary><br>
 
-### 1. Задания по модулю "Анализ требований":
+[Интеграция систем и документирование API](https://netology.ru/sharing/fb5ccdb8855ce41b0be624f3a63f27e6?utm_source=social&utm_campaign=certificate_lms )
+ 
+[Документирование в IT-проектах](https://netology.ru/sharing/8052fffaffff263261f6ce6234b9edea?utm_source=social&utm_campaign=achievements)
 
+[Библиотеки Python для анализа данных](https://netology.ru/sharing/73f22f887e21409cb8e5e8d235eb735e?utm_source=social&utm_campaign=achievements)
+
+</details>
+
+<details>
+ <summary> 2023 год </summary><br>
+ 
+[Основы Python](https://netology.ru/sharing/64a50bcfe24f9758f9c5492584f33367?utm_source=social&utm_campaign=achievements)
+ 
+[SQL-разработчик](https://netology.ru/sharing/c590e12d1783e47140e0c90694b6cf57?utm_source=social&utm_campaign=achievements)
+
+[SQL и получение данных](https://netology.ru/sharing/55d92c29fa1079ab71e16911f2ae6eba?utm_source=social&utm_campaign=achievements)
+
+[Тестирование и развёртывание ПО](https://netology.ru/sharing/673b333b51e35de0c64b839b363bd4ad?utm_source=social&utm_campaign=achievements)
+
+[Git и механизмы ветвления](https://netology.ru/sharing/09156369a547c9c63ffb852317e94337?utm_source=social&utm_campaign=achievements)
+
+[Моделирование бизнес-процессов](https://netology.ru/sharing/ee1625bf5b78eb4c922683e23bee729a?utm_source=social&utm_campaign=achievements)
+
+[Прототипирование интерфейсов](https://netology.ru/sharing/344c345a2d44825b8679a07e55255313?utm_source=social&utm_campaign=achievements)
+
+[Основы разработки](https://netology.ru/sharing/c2cb98638066bd46cf1b46e37d103d16?utm_source=social&utm_campaign=achievements)
+
+[Анализ требований](https://netology.ru/sharing/881a1014e5857bdc28541881aedc9952?utm_source=social&utm_campaign=achievements)
+
+[Компьютерная грамотность](https://netology.ru/sharing/fa68f2aad28734775ab7604152ad680c?utm_source=social&utm_campaign=achievements)
+
+[Excel: простые шаги для оптимизации работы с данными](https://netology.ru/sharing/b49b7e86ccdce13d92cece4417049083?utm_source=social&utm_campaign=achievements)
+
+[Системный аналитик: первые шаги к профессии](https://netology.ru/sharing/da07827510643a518f97bdb099f63bc3?utm_source=social&utm_campaign=achievements)
+
+</details> 
+
+<details>
+ <summary> 2022 год </summary><br>
+ 
+[Цифровая трансформация. Быстрый старт](https://stepik.org/cert/1366718)
+
+</details>
+
+## Проекты:
+
+<details>
+ <summary> 1. Задания по модулю "Анализ требований":</summary><br>
+ 
 [1.1 Методы сбора требований](https://github.com/FreedNumf/Portfolio/blob/main/01%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/01%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%81%D0%B1%D0%BE%D1%80%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/01%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%81%D0%B1%D0%BE%D1%80%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.md)
 
 [1.2 Методы формализации требований - по классификации](https://github.com/FreedNumf/Portfolio/blob/main/01%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/02%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20-%20%D0%BF%D0%BE%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/02%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.md)
@@ -26,24 +75,36 @@
 
 [1.10 Итоговая работа по Анализу требований](https://github.com/FreedNumf/Portfolio/tree/main/01%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/10%20%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)
 
-### 2. Задания по модулю "Основы разработки":
+</details>
+ 
+<details>
+  <summary> 2. Задания по модулю "Основы разработки":</summary><br>
 
 [2.1 Итоговая работа по модулю Основы разработки](https://github.com/FreedNumf/Portfolio/blob/main/02%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/2.1%20%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8E%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.md)
 
-### 3. Задания по модулю "Прототипирование интерфейсов":
+</details>
 
+<details>
+  <summary> 3. Задания по модулю "Прототипирование интерфейсов":</summary><br>
+  
 [3.1 Задание по Прототипированию интерфейсов в Figma](https://github.com/FreedNumf/Portfolio/blob/main/03%20%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2/3.1%20%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Figma.md)
 
-### 4. Задания по модулю "Моделирование бизнес-процессов":
+</details>
 
+<details>
+  <summary> 4. Задания по модулю "Моделирование бизнес-процессов":</summary><br>
+  
 [4.1 Задание по теме Моделирование бизнес-процессов и нотация BPMN](https://github.com/FreedNumf/Portfolio/blob/main/04%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2/4.1%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BC%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20BPMN.md)
 
 [4.2 Задание по теме Моделирование бизнес-процессов и нотация BPMN](https://github.com/FreedNumf/Portfolio/blob/main/04%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2/4.2%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BC%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20BPMN.md)
 
 [4.3 Итоговая работа по модулю «Моделирование бизнес-процессов»](https://github.com/FreedNumf/Portfolio/blob/main/04%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2/4.3%20%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%83%20%C2%AB%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%C2%BB%20(MBP).md)
 
-### 5. Задания по модулю "SQL":
+</details>
 
+<details>
+  <summary> 5. Задания по модулю "SQL":</summary><br>
+  
 [5.1 Практика по теме "Работа с базами данных"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m2-%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D0%B1%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
 [5.2 Задание по теме "Основы SQL](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m3-%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B5_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_SQL)
@@ -56,8 +117,10 @@
 
 [5.6 Итоговая работа по модулю "SQL"](https://github.com/FreedNumf/Portfolio/tree/main/05%20SQL/m7_%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20SQL)
 
-### 6. Задания по модулю "Python":
+</details>
 
+<details>
+  <summary> 6. Задания по модулю "Python":</summary><br>
 
 [6.1 Задание к лекции Основы Python](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.1%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python.ipynb)
 
@@ -81,12 +144,20 @@
 
 [6.11 Задание к лекции Основы веб-скрапинга](https://github.com/FreedNumf/Portfolio/blob/main/06%20Python/6.11%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%BD%D0%B3%D0%B0.ipynb)
 
-### 7. Задания по модулю "Документирование в IT-проектах":
+</details>
 
+<details>
+  <summary> 7. Задания по модулю "Документирование в IT-проектах":</summary><br>
+  
 [7.1 Итоговая работа по модулю "Документирование в IT-проектах"](https://github.com/FreedNumf/Portfolio/tree/main/07%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20IT-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D1%85)
 
-### 8. Задания по модулю "Интеграция систем и документирование API":
+</details>
 
+<details>
+  <summary> 8. Задания по модулю "Интеграция систем и документирование API":</summary><br>
+  
 [8.1 Задание по теме "Swagger"](https://github.com/FreedNumf/Portfolio/blob/main/08%20%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API/8.1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BC%D0%B5%20%C2%ABSwagger%C2%BB.md)
 
 [8.2 Задание к занятию "REST API"](https://github.com/FreedNumf/Portfolio/blob/main/08%20%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B8%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API/8.2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8E%20%C2%ABREST%20API%C2%BB.md)
+
+</details>
