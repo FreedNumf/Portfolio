@@ -1,7 +1,5 @@
 # Портфолио
 
-## [Резюме](https://github.com/FreedNumf/Portfolio/blob/main/Resume_MorozovAK.pdf)
-
 ## Сертификаты:
 <details>
  <summary> 2024 год </summary><br>
